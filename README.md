@@ -63,8 +63,6 @@ Me chamo Rafael, sou desenvolvedor Front-End em transição para me tornar Full-
 />
 
 <br/>
----
-<br/>
 
 ### 📊 Estatísticas
 
