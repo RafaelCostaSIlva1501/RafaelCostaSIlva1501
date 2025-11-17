@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael da Costa Silva
+# 💻 Rafael da Costa Silva
 
 **`Desenvolvedor Front-End`**
 
