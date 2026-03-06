@@ -61,25 +61,3 @@ Me chamo Rafael, sou desenvolvedor Front-End em transição para me tornar Full-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding: 0 10px 10px 0;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafaelcostasilva1501&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>  
-<p>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcostasilva1501&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-</p>
